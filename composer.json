@@ -1,0 +1,7 @@
+{
+  "name": "jodfie/pdfworkflow",
+  "description": "Nextcloud app to manage scanned PDFs",
+  "type": "project",
+  "license": "AGPL-3.0-or-later",
+  "require": {}
+}

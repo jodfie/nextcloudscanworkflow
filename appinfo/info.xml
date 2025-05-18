@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<info>
+  <id>pdfworkflow</id>
+  <name>PDF Workflow</name>
+  <description>Preview, rename, and move scanned PDFs</description>
+  <version>1.0.0</version>
+  <namespace>PdfWorkflow</namespace>
+</info>
