@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <info>
-  <id>pdfworkflow</id>
-  <name>PDF Workflow</name>
+  <id>nextcloudscanworkflow</id>
+  <name>NextCloud Scan Workflow</name>
   <description>Preview, rename, and move scanned PDFs</description>
   <version>1.0.0</version>
-  <namespace>PdfWorkflow</namespace>
+  <namespace>nextcloudscanworkflow</namespace>
   <entry>app.php</entry>
   <default_enable>yes</default_enable>
   <types>
