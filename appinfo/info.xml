@@ -5,4 +5,9 @@
   <description>Preview, rename, and move scanned PDFs</description>
   <version>1.0.0</version>
   <namespace>PdfWorkflow</namespace>
+  <entry>app.php</entry>
+  <default_enable>yes</default_enable>
+  <types>
+    <type>filesystem</type>
+  </types>
 </info>
