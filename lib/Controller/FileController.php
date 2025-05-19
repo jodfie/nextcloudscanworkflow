@@ -8,14 +8,6 @@ use OCP\IRequest;
 use OCP\IUserSession;
 
 class FileController extends ApiController {
-    private $rootFolder;
-    private $userId;
-
-    public function __construct(IRequest $request, IRootFolder $rootFolder, IUserSession $userSession) {
-        parent::__construct('pdfworkflow', $request);
-        $this->rootFolder = $rootFolder;
-        $this->userId = $userSession->getUser()->getUID();
-    }
 
     /**
      * @NoAdminRequired
