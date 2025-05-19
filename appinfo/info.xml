@@ -1,22 +1,17 @@
 <?xml version="1.0"?>
 <info>
-<<<<<<< HEAD
   <id>nextcloudscanworkflow</id>
-  <name>NextCloud Scan Workflow</name>
+  <name>Nextcloud Scan Workflow</name>
   <description>Preview, rename, and move scanned PDFs</description>
   <version>1.0.0</version>
-  <namespace>nextcloudscanworkflow</namespace>
-  <entry>app.php</entry>
+  <licence>AGPL</licence>
+  <author>Your Name</author>
+  <namespace>Nextcloudscanworkflow</namespace>
+
   <default_enable>yes</default_enable>
   <types>
     <type>filesystem</type>
   </types>
+
+  <entry>app.php</entry>
 </info>
-=======
-  <id>NextCloud Scan Workflow</id>
-  <name>Nextcloud Scan Workflow</name>
-  <description>Preview, rename, and move scanned PDFs</description>
-  <version>1.0.0</version>
-  <namespace>nextcloudscanworkflow</namespace>
-</info>
->>>>>>> d7f44818eb781d309d9b0a2cbd2a4644617b07e6
