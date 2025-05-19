@@ -1,5 +1,5 @@
 <?php
-namespace OCA\PdfWorkflow\Controller;
+namespace OCA\nextcloudscanworkflow\Controller;
 
 use OCP\AppFramework\Http\DataResponse;
 use OCP\AppFramework\ApiController;

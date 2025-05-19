@@ -29,7 +29,7 @@ export default {
   },
   methods: {
     loadFiles() {
-      fetch(OC.generateUrl('/apps/pdfworkflow/files'))
+      fetch(OC.generateUrl('/apps/nextcloudscanworkflow/files'))
         .then(res => res.json())
         .then(data => {
           this.files = data;
