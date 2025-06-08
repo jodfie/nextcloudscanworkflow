@@ -4,7 +4,7 @@
     <input v-model="filename" placeholder="New filename" />
     <input v-model="destination" placeholder="Destination folder" />
     <button @click="renameAndMove">Rename & Move</button>
-    <button @click="prevFile">Prev</button>
+    <button @click="prevFile">Previous</button>
     <button @click="nextFile">Next</button>
   </div>
 </template>
